@@ -2,6 +2,8 @@
 
 A Cloudflare worker that uses the Browser Rendering API and MealViewer to display the next school lunch on a Tidbyt.
 
+![image](https://github.com/user-attachments/assets/09967c9a-91f7-44ab-b646-c38f7f13e357)
+
 # Install
 
 1. clone this repo
