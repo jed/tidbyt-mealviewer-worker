@@ -45,7 +45,7 @@ let style = `
 `;
 
 export default {
-  async fetch(_, env) {
+  async scheduled(_, env) {
     try {
       let toDateString = (date) =>
         date
